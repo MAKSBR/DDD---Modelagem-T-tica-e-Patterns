@@ -1,4 +1,4 @@
-# Order Repository - TypeScript
+# Métodos de OrderRepository
 
 Este é um projeto que atende o desafio do modulo DDD da Full Cycle, o desafio é:
 
